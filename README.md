@@ -1,4 +1,4 @@
-Hi there, I’m Taha Hussain
+      Hi there, I’m Taha Hussain
 
 - 👀 I’m currently working on Frontend projects
 - 🌱 I’m currently learning Cloud Computing
@@ -6,9 +6,9 @@ Hi there, I’m Taha Hussain
 - 💬 Ask me about anything, i'm happy to help
 - 📫 How to reach me: tahahussain0805@gmail.com
 - ⚡ Fun fact I dont use chrome :)
-- 💻 The fields i am looking forward to:
--Blockchain
--Machine Learning.
--Artificial Intelligence
- 
+* The fields i look forward to:
+  * Game Development
+  * Artificial Intelligence
+  * Cyber Security
+  
 
