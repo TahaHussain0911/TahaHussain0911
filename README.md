@@ -7,8 +7,8 @@ Hi there, I’m Taha Hussain
 - 📫 How to reach me: tahahussain0805@gmail.com
 - ⚡ Fun fact I dont use chrome :)
 - 💻 The fields i am looking forward to:
-Blockchain
-Machine Learning.
-Artificial Intelligence
-- 
+-Blockchain
+-Machine Learning.
+-Artificial Intelligence
+ 
 
