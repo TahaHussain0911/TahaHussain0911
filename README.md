@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Frontend Projects**
 
-- 🌱 I’m currently learning **ExpressJS, DialogFlow**
+- 🌱 I’m currently learning **NestJS, DialogFlow**
 
 - 👯 I’m looking to collaborate on **Web or App development Projects**
 
