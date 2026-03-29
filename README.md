@@ -5,8 +5,6 @@
 </div>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahahussain0911&label=Profile%20views&color=0e75b6&style=flat" alt="tahahussain0911" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahahussain0911" alt="tahahussain0911" /></a> </p>
-
 - 🔭 I am a **Full Stack Developer** with 3 years of experience
 
 - 🌱 I’m currently working on **Backend & AI projects**
