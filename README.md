@@ -102,8 +102,6 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahahussain0911&show_icons=true&locale=en&layout=compact" alt="tahahussain0911" />
-  <img src="https://github-readme-stats.vercel.app/api?username=tahahussain0911&show_icons=true&locale=en" alt="tahahussain0911" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahahussain0911&" alt="tahahussain0911" />
 </div>
 <div align="center">
