@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahahussain0911" alt="tahahussain0911" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend Projects**
+- 🔭 I am a **Full Stack Developer** with 3 years of experience
 
-- 🌱 I’m currently learning **NestJS, DialogFlow**
+- 🌱 I’m currently working on **Backend & AI projects**
 
 - 👯 I’m looking to collaborate on **Web or App development Projects**
 
-- 🤝 I’m looking for help with **Backend Developement**
-
-- 👨‍💻 All of my projects are available at [https://tahahussain0911.github.io/myportfolio/](https://tahahussain0911.github.io/myportfolio/)
+- 👨‍💻 All of my projects are available at [https://taha-hussain.vercel.app/](https://taha-hussain.vercel.app/)
 
 - 💬 Ask me about **anything, i'm happy to help**
 
